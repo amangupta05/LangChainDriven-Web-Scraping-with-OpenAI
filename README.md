@@ -1,4 +1,4 @@
-# Project Name: Website Scraping and Querying with LangChain and FAISS
+# Website Scraping and Querying with LangChain and FAISS
 
 ## Overview
 
