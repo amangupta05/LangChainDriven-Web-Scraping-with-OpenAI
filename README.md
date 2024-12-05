@@ -203,6 +203,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For any issues or contributions, feel free to reach out:
 
-- **Email**: [amangupta52001@example.com](mailto\:amangupta52001@gmail.com)
+- **Email**: [amangupta52001@gmail.com](mailto\:amangupta52001@gmail.com)
 - **GitHub**: [amangupta05](https://github.com/amangupta05)
 
