@@ -36,8 +36,8 @@ This project demonstrates how to scrape text content from a website, process it 
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/amangupta05/LangChainDriven-Web-Scraping-with-OpenAI.git
+cd LangChainDriven-Web-Scraping-with-OpenAI
 ```
 
 ### Step 2: Set Up Virtual Environment
