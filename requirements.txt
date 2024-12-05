@@ -1,0 +1,13 @@
+ipykernel
+langchain
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+openai
+python-dotenv
+tqdm
+transformers
+numpy
+torch
+torchvision
+bs4
